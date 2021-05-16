@@ -1,0 +1,18 @@
+{
+    "name": "roberto doering",
+    "short_name": "rd",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#24292E",
+    "theme_color": "#1D3557",
+    "description": "roberto doering",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-471.png",
+            "sizes": "471x471",
+            "type": "image/png"
+        }
+    ]
+}
