@@ -38580,7 +38580,7 @@ case 2:return P.a0(o,r)}})
 return P.a2($async$ms,r)}}
 M.Z4.prototype={}
 L.pD.prototype={
-gkW:function(){return"assets/avatar.png"},
+gkW:function(){return"images/avatar.png"},
 a0f:function(a){var s,r={},q=a.a
 if(q==null)q=$.pn()
 r.a=r.b=null
@@ -38606,7 +38606,7 @@ if(q==null)return a.h(0,r)
 if(b<2||b>(r+q)/2)return a.h(0,q)
 else return a.h(0,r)},
 CV:function(a){var s,r,q,p
-if(a==="assets/avatar.png")return 1
+if(a==="images/avatar.png")return 1
 s=P.Dz(a,0,null)
 r=s.glj().length>1?s.glj()[s.glj().length-2]:""
 q=$.ac2().qR(r)
